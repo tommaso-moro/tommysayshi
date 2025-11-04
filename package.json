@@ -1,0 +1,19 @@
+{
+  "name": "tommysayshi",
+  "version": "1.0.0",
+  "description": "A simple Go CLI for npx",
+  "main": "bin/run.js",
+  "bin": {
+    "tommysayshi": "./bin/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommaso-moro/tommysayshi.git"
+  },
+  "keywords": [
+    "cli",
+    "go"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

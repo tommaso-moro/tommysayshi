@@ -1,0 +1,4 @@
+# Ignore Go source files
+main.go
+go.mod
+go.sum
